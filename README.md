@@ -1,7 +1,11 @@
 # SSL-Verschlüsselt-Badge
 Java Script Code der ein kleines Badge in der rechten unteren Ecke erstellt, welches "SSL-Verschlüsselt" anzeigt.
+<br>
 Bilder:
-<img src="[pic_trulli.jpg](https://github.com/dmd2222/SSL-Verschl-sselt-Badge/blob/main/images/1.JPG?raw=true)" alt="Italian Trulli">
+<br>
+<img src="https://github.com/dmd2222/SSL-Verschl-sselt-Badge/blob/main/images/1.JPG?raw=true" alt="Bild 1">
+<img src="https://github.com/dmd2222/SSL-Verschl-sselt-Badge/blob/main/images/2.JPG?raw=true" alt="Bild 2">
+<img src="https://github.com/dmd2222/SSL-Verschl-sselt-Badge/blob/main/images/3.JPG?raw=true" alt="Bild 3">
 JavaScript Code:
 <code>
 <script>
