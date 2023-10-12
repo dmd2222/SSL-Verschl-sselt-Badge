@@ -3,7 +3,7 @@
   if (window.location.protocol === 'https:') {
     // Erstellen eines Elements für das Schlosssymbol
     var lockIcon = document.createElement('div');
-    lockIcon.innerHTML = '<a href="https://github.com/dmd2222/SSL-Verschl-sselt-Badge" style="color: white; text-decoration: none;">🔒 SSL-Verschlüsselt</a>';
+    lockIcon.innerHTML = '<a href="https://github.com/dmd2222/SSL-Verschl-sselt-Badge" target="_blank" style="color: white; text-decoration: none;">🔒 SSL-Verschlüsselt</a>';
 
     // Stilisieren des Symbols
     lockIcon.style.position = 'fixed';
